@@ -1,13 +1,13 @@
 # A LinkStack Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: Paul's Theme
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
+*	Theme Date: 2024-11-24
+*	Theme Author: paulmassen
+*	Theme Author URI: https://github.com/paulmassen
 *	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Source code: https://github.com/paulmassen/linkstack-pauls-theme
 
 
 ### Used assets:
